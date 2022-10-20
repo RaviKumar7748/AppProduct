@@ -4,7 +4,7 @@ public class Product {
 	private int prodId;
 	private String prodName;
 	private double prodCost;
-	
+	//hello user
 	public void setProdId(int prodId) {
 		this.prodId = prodId;
 	}
